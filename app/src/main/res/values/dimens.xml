@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<dimen name="cover_image_Hight">240dp</dimen>
+<dimen name="social_btn_padding_left_right">30dp</dimen>
+<dimen name="profile_img_width_hight">56dp</dimen>
+
+    
+</resources>
